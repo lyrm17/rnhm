@@ -1,4 +1,4 @@
-## How to work on this mini-project?
+## Resolution to rnhw-master
 
 - Clone this repository to your local machine
 - Create a repository on your GitHub account and submit the solution there when you're done.
